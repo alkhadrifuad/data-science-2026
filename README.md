@@ -1,9 +1,13 @@
 # Repository Pembelajaran Data Science
 
-Nama Lengkap : Al Khadri Fuad 
-NIM          : 250401020114  
+**Nama Lengkap** : Al Khadri Fuad 
+
+**NIM**          : 250401020114  
+
 **Kelas**        : IF405 
+
 **Program Studi**: Informatika
+
 **Dosen Pengajar** : Syahid Abdullah, S.Si., M.Kom.
 
 ---
