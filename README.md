@@ -4,6 +4,7 @@
 **NIM**          : 250401020114  
 **Kelas**        : IF405 
 **Program Studi**: Informatika
+**Dosen Pengajar** : Syahid Abdullah, S.Si., M.Kom.
 
 ---
 
