@@ -19,7 +19,9 @@ Halo, saya Al Khadri Fuad, mahasiswa Informatika. Repository ini dibuat sebagai 
 Melalui repository ini, saya belajar dasar-dasar pemrograman Python untuk Data Science, mulai dari manipulasi data, visualisasi, hingga analisis data sederhana. Tujuan utama saya adalah memahami bagaimana data dapat diolah, dianalisis, dan divisualisasikan untuk menghasilkan insight yang berguna.
 
 Repository ini berisi notebook Jupyter (.ipynb) dari Pertemuan 1 hingga Pertemuan 7 beserta penjelasan, kode, dan hasil analisisnya.
-dan selanjutnya Repository ini berisi notebook Jupyter (.ipynb) dari Pertemuan 9 hingga Pertemuan 13 beserta penjelasan, kode, dan hasil analisisnya
+dan selanjutnya aktvitas hand-on dilakukan dari Pertemuan 9 hingga Pertemuan 13 beserta penjelasan, kode, dan hasil analisisnya.
+
+Terima kasih,
 
 ---
 
